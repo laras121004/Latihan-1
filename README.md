@@ -10,6 +10,7 @@
 3. Metode: Fungsi yang mendefinisikan tindakan atau perilaku yang dapat dilakukan oleh objek. Misalnya, class AkunBank dapat memiliki metode simpanUang(), ambilUang(), dan cekSaldo().
 4. Constructor: Metode khusus yang digunakan untuk menginisialisasi objek ketika objek tersebut dibuat. Constructor biasanya digunakan untuk menetapkan nilai awal dari atribut.
 
+<img width="265" alt="Cuplikan layar 2024-10-07 075452" src="https://github.com/user-attachments/assets/0a112b75-075f-4160-a705-837da23ccaf1">
 
 
 
