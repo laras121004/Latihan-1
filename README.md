@@ -46,6 +46,11 @@
 | ambilUang(150000)    |
 | cekSaldo()           |
 
+# Latihan 2
+ ## * Buatlah kode program java untuk:
+ • Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
+ • Buatlah dua buah objek dari class Person bernama Anton dan Riko
+
 
 
 
