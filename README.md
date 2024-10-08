@@ -48,16 +48,16 @@
 
 # Latihan 2
  ## * Buatlah kode program java untuk:
- 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
+## 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
 
 ## * INPUT
-    ![gambar](ss1.png)
-    ![gambar](ss2.png)
-    
+![gambar](ss1.png)
+![gambar](ss2.png)
+
 ## * OTPUT
-    ![gambar](ss1.png)
+![gambar](ss3.png)
     
-2. Buatlah dua buah objek dari class Person bernama Anton dan Riko
+## 2. Buatlah dua buah objek dari class Person bernama Anton dan Riko
     
 
 
