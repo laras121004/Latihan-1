@@ -68,6 +68,7 @@
 ## Buatlah kode java untuk: 
 1. Mendeklarasikan class AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 2. Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses berikut:
+  ![gambar](ss.png)
 
 ## * INPUT
 ![gambar](ss4.png)
