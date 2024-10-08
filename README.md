@@ -3,7 +3,7 @@
  2. Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko
  3. Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 
-# Berikut adalah hal-hal yang perlu didefinisikan sebelum membuat objek:
+## Berikut adalah hal-hal yang perlu didefinisikan sebelum membuat objek:
 
 1. Nama Class: Ini adalah identitas dari class yang akan digunakan untuk membuat objek.
 2. Atribut: Variabel yang mendefinisikan karakteristik atau properti dari objek. Misalnya, untuk class Person, atributnya bisa berupa nama, umur, dan jenisKelamin.
@@ -49,6 +49,7 @@
 # Latihan 2
  ## * Buatlah kode program java untuk:
 ## 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
+## 2. Buatlah dua buah objek dari class Person bernama Anton dan Riko
 
 ## * INPUT
 ![gambar](ss1.png)
@@ -56,8 +57,34 @@
 
 ## * OTPUT
 ![gambar](ss3.png)
+
+# Penjelasan
+- Kelas person mendeklarasikan atribut nama, jeniskelamin, dan umur.
+- Constructor digunakan untuk menginsialisasi atribut saat objek dibuat.
+- Dua objek (anton dan riko) dibuat dengan menggunakan constructor dan datanya diisi.
+- Method tampilkaninfo digunakan untuk menampilkan informasi dan objek tersebut.
     
-## 2. Buatlah dua buah objek dari class Person bernama Anton dan Riko
+# Latihan 3
+## Buatlah kode java untuk: 
+1. Mendeklarasikan class AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
+2. Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses berikut:
+
+## * INPUT
+![gambar](ss4.png)
+![gambar](ss5.png)
+
+## * OTPUT
+![gambar](ss6.png)
+
+## Penjelasan:
+- Atribut saldo: Menyimpan saldo yang diinisialisasi melalui constructor.
+- Method simpanUang(int jumlah): Menambahkan jumlah uang yang disimpan ke dalam saldo.
+- Method ambilUang(int jumlah): Mengurangi saldo sesuai jumlah uang yang diambil jika saldo mencukupi.
+- Method cekSaldo(): Menampilkan saldo saat ini.
+- Main Method: Membuat objek AkunBank, menampilkan pesan awal, dan memanggil metode simpanUang dan ambilUang sesuai skenario pada gambar.
+- Ketika program dijalankan, hasil yang ditampilkan sesuai dengan yang diminta di gambar.
+
+
     
 
 
